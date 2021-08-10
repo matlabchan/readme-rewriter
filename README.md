@@ -1,6 +1,8 @@
 # readme-rewriter
 This repository is used to test g2531455 for readme rewriting for File Exchange submissions.
 
+Adding this line to see if I can update from Git on MATLAB Desktop
+
 | Left Justified    | Centered       | Right Justified     |
 |:--                |:--------------:|                  --:|
 | Gauche            | Centre         | Droit               |
