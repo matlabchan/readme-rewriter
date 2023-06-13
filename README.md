@@ -17,6 +17,8 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/FSDA&project=FSDA.prj)
 
+[![Testing Links](https://hacker.example.com/?u=https://github.com/UniprJRC/FSDA/actions/workflows/ci.yml/badge.svg)](https://www.google.com)
+
 ## Test for image resizing g2531455
 This repository is used to test g2531455 for readme rewriting for File Exchange submissions.
 
