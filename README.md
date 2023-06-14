@@ -1,4 +1,6 @@
 # readme-rewriter
+Here's some updated text for bashing 6/14/23
+
 ## Test for badges
 ![GitHub top language](https://img.shields.io/github/languages/top/UniprJRC/FSDA)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/UniprJRC/FSDA)](https://github.com/UniprJRC/FSDA/releases/latest)
