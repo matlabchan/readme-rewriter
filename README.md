@@ -2,6 +2,10 @@
 
 Here's some updated text for bashing 5/8/24
 
+![my face](download.jpg)
+
+
+
 # Working images
 ### Stitched images 1:
 | Type | Images |
