@@ -1,4 +1,36 @@
 # readme-rewriter
+
+Here's some updated text for bashing 5/8/24
+
+# Working images
+### Stitched images 1:
+| Type | Images |
+| --- | --- |
+| Stitched image | ![pano_full](https://user-images.githubusercontent.com/28588878/151394796-907b2a27-2054-412a-aa6c-aa5120294df5.jpg) |
+| Crop box | ![pano_bbox](https://user-images.githubusercontent.com/28588878/151394950-cb1c0009-2ed4-4b2b-94dc-66dc18695445.jpg) |
+| Cropped image | ![pano_crop](https://user-images.githubusercontent.com/28588878/151394973-c05b9c2c-c3b2-416a-8270-77afd79f484c.jpg) |
+
+### Stitched images 2:
+| Type | Images |
+| --- | --- |
+| Stitched image | ![result_26](https://user-images.githubusercontent.com/28588878/143264138-cbb7b009-569b-426e-81f2-14d8eacad415.jpg) |
+| Cropped image | ![cropped](https://user-images.githubusercontent.com/28588878/143264182-d472d40c-8b24-4728-8304-42a7cfbbfed8.jpg) |
+
+
+# Non-working images
+| Type | Images |
+| --- | --- |
+| CMU | ![dataset_samples_CMU0](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch/assets/28588878/52abe23a-b44f-4891-9712-6a0bc3ab324e) |
+| Grand Canyon | ![dataset_samples_grandcanyon](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch/assets/28588878/7f24d1ce-4b4c-4107-b2c3-46ebd2e33575) |
+| Shanghai | ![dataset_samples_shanghai](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch/assets/28588878/6c6f57a5-ae1d-467b-9245-5da3eaa3a742) |
+| UCSB | ![dataset_samples_ucsb4](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch/assets/28588878/ed88cf0a-54c2-4441-b719-146a9d323f78) |
+| Yellowstone | ![dataset_samples_yellowstone](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch/assets/28588878/2c8ebb37-8e75-410f-b66f-2d504096cea7) |
+| Rio | ![dataset_samples_rio](https://github.com/preethamam/AutomaticPanoramicImageStitching-AutoPanoStitch/assets/28588878/a335d043-6049-406f-ba72-36ed31f5862f) |
+
+
+
+
+
 Here's some updated text for bashing 6/14/23
 
 ## Test for badges
